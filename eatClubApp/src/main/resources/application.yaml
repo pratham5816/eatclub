@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: eatClubApp
+
+
+# Server Configuration
+server:
+  port: 8080
+
+
+
+#  loading 
+custom:
+  mysid: ${TWILLIO_SID:default-sid-value}
+  mypassword: ${TWILLIO_TOKEN:default-password-value}
+  twilliophone: ${TWILLIO_PHONE:default-phone-value}
