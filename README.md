@@ -1,7 +1,7 @@
 Project Overview
 
 LINK - https://eat-club-front-end-github.vercel.app/  (used outletName - 46  if dont know outletId)
-
+SMS will not work. Reason i am having Twillio Free Account for sms integration. if really interested to checkout clone this repo see the env variables and setup use your own twillio account.
 EatClub Automation is a solution that eliminates the need to manually check restaurant availability on the EatClub platform. When the "Kitchen Full - Come Back Later" message appears, this application continuously monitors the restaurant’s status until it becomes available.
 
 Key Features
